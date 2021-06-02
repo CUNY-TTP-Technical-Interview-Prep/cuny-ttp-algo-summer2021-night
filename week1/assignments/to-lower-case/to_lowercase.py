@@ -6,9 +6,33 @@ class Solution:
         return s.lower()
 
 # Custom implementation modifying ASCII values
+# Runtime: 32 ms, faster than 39.87% of python3 submissions
+# Memory Usage: 13.9 MB, less than 99.73% of python3 submissions
+class Solution2:
+    def toLowerCase(self, s: str) -> str:
+        new_s = ''
+        for ch in s:
+            if ord(ch) >= 65 and ord(ch) <= 90:
+                new_s += chr(ord(ch) + 32)
+            else:
+                new_s += ch
+        return new_s
+
+# Custom implementation modifying ASCII values
+# Runtime: 24 ms, faster than 91.71% of python3 submissions
+# Memory Usage: 14.3 MB, less than 32.25% of python3 submissions
+class Solution3:
+    def toLowerCase(self, s: str) -> str:
+        new_s = ''
+        for ch in s:
+            c = chr(ord(ch) + 32) if ord(ch) >= 65 and ord(ch) <= 90 else ch
+            new_s += c
+        return new_s
+
+# Custom implementation modifying ASCII values
 # Runtime: 48 ms, faster than 39.87% of python3 submissions
 # Memory Usage: 14.3 MB, less than 32.25% of python3 submissions
-class Solution:
+class Solution4:
     def toLowerCase(self, s: str) -> str:
         # Converting uppercase letter to lowercase letter in ASCII means adding 32
         # A -> 65 and a -> 97, so 65 + 32 = 97
