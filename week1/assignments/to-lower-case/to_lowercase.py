@@ -30,8 +30,8 @@ class Solution3:
         return new_s
 
 # Custom implementation modifying ASCII values
-# Runtime: 48 ms, faster than 39.87% of python3 submissions
-# Memory Usage: 14.3 MB, less than 32.25% of python3 submissions
+# Runtime: 28 ms, faster than 73.71% of python3 submissions
+# Memory Usage: 14.2 MB, less than 64.71% of python3 submissions
 class Solution4:
     def toLowerCase(self, s: str) -> str:
         # Converting uppercase letter to lowercase letter in ASCII means adding 32
@@ -44,5 +44,6 @@ class Solution4:
 
         # Uppercase letter in ASCII ranges from 65 to 90 inclusive
         for ch in s:
-            new_s += chr(ord(ch) + 32) if ord(ch) >= 65 and ord(ch) <= 90 else ch
+            c = ord(ch)
+            new_s += chr(c + 32) if c >= 65 and c <= 90 else ch
         return new_s
