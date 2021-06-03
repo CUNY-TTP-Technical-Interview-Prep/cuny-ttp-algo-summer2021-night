@@ -68,3 +68,9 @@ Binary Tree
 **Week 4 (06/22 -> 06/26)**
 
 Dynamic Programming
+
+## zoom recordings:
+
+| date | recording | passcode |
+| ---- | ------ | ----- |
+| Jun 1 | [link](https://us02web.zoom.us/rec/share/qQAMLmjq4Y1YCwJs9M2kws4Y27rAWWAfXkbginTlrMTWjlDH_w01ZXH1J9BgEJhp.oyOLVDyvqc0mMEWu) | &MnQ.H1& |
