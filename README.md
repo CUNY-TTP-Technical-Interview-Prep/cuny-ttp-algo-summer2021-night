@@ -76,8 +76,8 @@ Dynamic Programming
 | Jun 1 | [link](https://us02web.zoom.us/rec/share/qQAMLmjq4Y1YCwJs9M2kws4Y27rAWWAfXkbginTlrMTWjlDH_w01ZXH1J9BgEJhp.oyOLVDyvqc0mMEWu) | &MnQ.H1& |
 | Jun 2 | [link](https://us02web.zoom.us/rec/share/F8BJhuM2eP2z5f8SHn-rUh6vrAqCDDzeFB-O42aqjmNWrJm88H8CEKGtM02Qk6er.DaGmz0N1Ub1aIQwa) | %37jGPDY |
 | Jun 3 | [link](https://us02web.zoom.us/rec/share/PpRcFfSPUaxutbLUD92IkFpeRnPIgD5TXZHhhACJ7vXQrOBdIxySpYQor8QxpEcM.Vp1gGutiX0Uz85Tp) | tA*a2Zid |
+| Jun 7 | [link](https://us02web.zoom.us/rec/share/n_GVd567P1Z8L_gnSk-ysoAniutsVrDAkf-LZtP3pvxDMZhwQrgURp00Z8mACnkk.Cmkvoa4JBQ2s-W5C) | B&BCpFJ7 |
 <!-- | Jun 3 | [link]() |  |
-| Jun 3 | [link]() |  |
 | Jun 3 | [link]() |  |
 | Jun 3 | [link]() |  |
 | Jun 3 | [link]() |  |
