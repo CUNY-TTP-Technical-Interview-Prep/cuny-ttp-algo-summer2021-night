@@ -1,3 +1,5 @@
+// Leet # 56: https://leetcode.com/problems/merge-intervals/
+
 const mergeInterval = (intervals) => {
 	// if the intervals array doesn't contain any interval or only has one, return it
 	if(intervals.length < 2) return intervals;
